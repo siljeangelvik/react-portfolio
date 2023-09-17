@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/603346d3-d0f5-4200-b62d-f54fb4f3f622/deploy-status)](https://app.netlify.com/sites/savannadev/deploys)
+![Hello](https://img.shields.io/static/v1?label=project&message=holidaze&color=orange) ![GitHub last commit](https://img.shields.io/github/last-commit/siljeangelvik/react-portfolio?&color=ff69b4)  
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/siljeangelvik/react-portfolio?&color=blue) ![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/r/rating/R4Intellij?&color=blueviolet)
 
-## Available Scripts
+**Owner:** [Silje Angelvik](https://github.com/siljeangelvik)    
+**Host:** [Netlify](https://savannadev.netlify.app/)  
+**Repository:** [GitHub](https://github.com/siljeangelvik/react-portfolio)
 
-In the project directory, you can run:
+## Preview
 
-### `npm start`
+<img src="./public/media/project_react_portfolio_home.png" alt="Portfolio Home Page" width="482" /> <br/>
+<img src="./public/media/project_react_portfolio_about.png" alt="Portfolio About Page" width="240" /> <img src="./public/media/project_react_portfolio_contact.png" alt="Portfolio Contact Page" width="240" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The images displayed above are screenshots of the Portfolio website on desktop.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Description
+Explore a showcase of my work and passions through this interactive portfolio website, meticulously crafted with React. I invite you to delve into the digital realm I've created, where creativity meets technology.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Built With
+- [React](https://reactjs.org/)
+- [React Leaflet](https://react-leaflet.js.org/)
+- [React Router DOM](https://reactrouter.com/web/guides/quick-start)
+- [Animate.css](https://animate.style/)
+- [EmailJS](https://www.emailjs.com/docs/examples/reactjs/)
+- [FortAwesome](https://fontawesome.com/)
+- [React Loaders](https://www.npmjs.com/package/react-loaders)
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repo
+```sh
+git clone git@github.com:siljeangelvik/react-portfolio.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Install NPM packages
+```sh
+npm install
+```
 
-### `npm run eject`
+3. Run the app
+```sh
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+No contributions at this time.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contact
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Click on the badges below to go to my profiles or contact me via email.
 
-## Learn More
+<a href = "https://www.linkedin.com/in/siljeangelvik/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href = "https://github.com/siljeangelvik">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge" />
+</a>
+<a href = "mailto: angelviksilje@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge" />
+</a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Acknowledgements
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Resources
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [React Project Tutorial](https://www.youtube.com/watch?v=bmpI252DmiI)
+- [React Project Tutorial GitHub](https://github.com/bobangajicsm/react-portfolio-website/tree/master/src/assets/images)
+- 
