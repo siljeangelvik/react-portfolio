@@ -10,6 +10,9 @@
   .logo {
     display: block;
     padding: 8px 0;
+    text-decoration: none;
+    list-style-type: none;
+    text-underline: none;
 
     img {
       display: block;
@@ -20,6 +23,16 @@
       &.sub-logo {
         width: 50px;
       }
+    }
+
+    p.sub-savanna {
+      color: #fff;
+      width: 100%;
+      font-family: 'Coolvetica', serif;
+      font-size: 13px;
+      padding: 0;
+      letter-spacing: 0.7px;
+      text-align: center;
     }
   }
 

@@ -11,7 +11,7 @@
 ## Preview
 
 <img src="./public/media/project_react_portfolio_home.png" alt="Portfolio Home Page" width="482" /> <br/>
-<img src="./public/media/project_react_portfolio_about.png" alt="Portfolio About Page" width="240" /> <img src="./public/media/project_react_portfolio_contact.png" alt="Portfolio Contact Page" width="240" />
+<img src="./public/media/project_react_portfolio_home.png" alt="Portfolio About Page" width="240" /> <img src="./public/media/project_react_portfolio_home.png" alt="Portfolio Contact Page" width="240" />
 
 The images displayed above are screenshots of the Portfolio website on desktop.
 
