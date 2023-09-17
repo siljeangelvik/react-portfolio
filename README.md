@@ -1,7 +1,7 @@
 # React Portfolio
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/603346d3-d0f5-4200-b62d-f54fb4f3f622/deploy-status)](https://app.netlify.com/sites/savannadev/deploys)
-![Hello](https://img.shields.io/static/v1?label=project&message=holidaze&color=orange) ![GitHub last commit](https://img.shields.io/github/last-commit/siljeangelvik/react-portfolio?&color=ff69b4)  
+![Project](https://img.shields.io/static/v1?label=project&message=portfolio&color=orange) ![GitHub last commit](https://img.shields.io/github/last-commit/siljeangelvik/react-portfolio?&color=ff69b4)  
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/siljeangelvik/react-portfolio?&color=blue) ![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/r/rating/R4Intellij?&color=blueviolet)
 
 **Owner:** [Silje Angelvik](https://github.com/siljeangelvik)    
@@ -16,10 +16,16 @@
 The images displayed above are screenshots of the Portfolio website on desktop.
 
 ## Description
-Explore a showcase of my work and passions through this interactive portfolio website, meticulously crafted with React. I invite you to delve into the digital realm I've created, where creativity meets technology.
 
+This portfolio isn't just a collection of web pages;
+it's a testament to the power of React.
+With its dynamic user interfaces and smooth navigation,
+React brings life to the digital canvas.
+Every element you see here has been carefully designed and
+optimized for a seamless user experience.
 
 ## Built With
+
 - [React](https://reactjs.org/)
 - [React Leaflet](https://react-leaflet.js.org/)
 - [React Router DOM](https://reactrouter.com/web/guides/quick-start)
@@ -33,16 +39,19 @@ Explore a showcase of my work and passions through this interactive portfolio we
 ### Installation
 
 1. Clone the repo
+
 ```sh
 git clone git@github.com:siljeangelvik/react-portfolio.git
 ```
 
 2. Install NPM packages
+
 ```sh
 npm install
 ```
 
 3. Run the app
+
 ```sh
 npm start
 ```
